@@ -14,7 +14,7 @@ This chatbot helps Western Governors University's Computer Science students expl
 - Developed problem-solving skills through the implementation of complex dialogue structures and interactive elements in the chatbot.
 - Ignited a fascination in AI and Machine Learning, inspiring me to delve deeper into these fields.
 
-## Future Imporvements
+## Future Improvements
 - **Enhanced Feedback Mechanism**: Implement a feedback system that collects detailed user responses to identify specific areas needing improvement.
 - **Adaptive Questioning Techniques**: Introduce dynamic questioning that adjusts based on user feedback to refine career suggestions more accurately.
 - **Expanded Career Recommendations**: Broaden the range of career options to cater to a more diverse student population and enhance relevance.
